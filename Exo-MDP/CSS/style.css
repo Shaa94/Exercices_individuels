@@ -1,0 +1,29 @@
+#boiteco{
+    width:400px;
+    margin:0 auto;
+    margin-top:10%;
+}
+h1{
+    text-align: center;
+}
+.boiteco{
+    text-align: center;
+    border: 1px solid #ccc;
+    padding-bottom: 4%;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+input[type=text], input[type=password] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+input[placeholder="Entrer le nom d'utilisateur"], input[placeholder="Entrer le mot de passe"]{
+    text-align: center;
+}
+input[type="submit"] {
+margin-top: 3%;
+}
